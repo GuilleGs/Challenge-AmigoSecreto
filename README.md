@@ -1,55 +1,62 @@
-🎉 Amigo Secreto - Sorteo Aleatorio de Amigos 🎉
+# 🎉 **Amigo Secreto - Sorteo Aleatorio de Amigos** 🎉
 
-¡Bienvenido a Amigo Secreto! Una divertida aplicación web para organizar un sorteo de amigo secreto entre tus amigos o compañeros. Solo ingresa los nombres, haz el sorteo y descubre quién es el amigo secreto. ¡Es fácil, rápido y emocionante!
+¡Bienvenido a **Amigo Secreto**! 🎁 Una divertida **aplicación web** para organizar un sorteo de amigo secreto entre tus amigos o compañeros. Solo tienes que ingresar los nombres, hacer el sorteo y descubrir quién es tu **amigo secreto**. ¡Es fácil, rápido y emocionante!
 
-🚀 Características Principales:
+---
 
-Añadir Amigos: Ingresa los nombres de tus amigos a través de un campo de texto y un botón para añadirlos a la lista.
+## 🚀 **Características Principales:**
 
-Validación: La aplicación verifica que el nombre ingresado no esté vacío antes de añadirlo.
+- **Añadir Amigos**:  
+  Ingresa los nombres de tus amigos a través de un campo de texto y un botón para añadirlos a la lista.
 
-Sorteo Aleatorio: Al hacer clic en el botón "Sortear Amigo", uno de los nombres será seleccionado al azar y se mostrará como el "amigo secreto".
+- **Validación**:  
+  La aplicación verifica que el nombre ingresado no esté vacío antes de añadirlo a la lista.
 
-Resultado Visual: El resultado del sorteo se muestra de forma destacada con un color verde brillante, lo que hace que sea fácil de ver.
+- **Sorteo Aleatorio**:  
+  Al hacer clic en el botón **"Sortear Amigo"**, uno de los nombres será seleccionado al azar y se mostrará como el **"amigo secreto"**.
 
-🛠 Tecnologías Usadas:
+- **Resultado Visual**:  
+  El resultado del sorteo se muestra de forma destacada en **verde brillante**, ¡para que todos lo vean fácilmente!
 
-HTML5: Para la estructura y contenido de la página web.
+---
 
-CSS3: Para estilizar la aplicación, incluyendo el uso de variables CSS para colores y diseño flexible.
+## 🛠 **Tecnologías Usadas:**
 
-JavaScript: Para manejar la lógica de la aplicación, como la adición de nombres a la lista y la selección aleatoria de un amigo secreto.
+- **HTML5**: Para la estructura y el contenido de la página web.
+- **CSS3**: Para estilizar la aplicación, incluyendo el uso de variables CSS para colores y diseño flexible.
+- **JavaScript**: Para manejar la lógica de la aplicación, como la adición de nombres a la lista y la selección aleatoria de un amigo secreto.
 
-🔧 Cómo Usar:
+---
 
-Inicia la Aplicación:
+## 🔧 **Cómo Usar:**
 
-Abre el archivo index.html en tu navegador favorito.
+1. **Inicia la Aplicación**:  
+   Abre el archivo `index.html` en tu navegador favorito.
 
-Añadir Amigos:
+2. **Añadir Amigos**:  
+   Escribe un nombre en el campo de texto y haz clic en el botón **Añadir** para agregar a un amigo a la lista.
 
-Escribe un nombre en el campo de texto y haz clic en el botón Añadir para agregar a un amigo a la lista.
+3. **Sorteo**:  
+   Una vez tengas todos los nombres de tus amigos, haz clic en el botón **Sortear amigo** para seleccionar aleatoriamente a uno de ellos como el **"amigo secreto"**.
 
-Sorteo:
+4. **Resultado**:  
+   El nombre del amigo secreto aparecerá en **verde destacado**, para que todos sepan quién le tocó.
 
-Una vez tengas todos los nombres de tus amigos, haz clic en el botón Sortear amigo para seleccionar aleatoriamente a uno de ellos como el "amigo secreto".
+---
 
-Resultado:
-
-El nombre del amigo secreto aparecerá en verde destacado, para que todos sepan quién le tocó.
-
-📢 Contribuciones:
+## 📢 **Contribuciones**:
 
 Si tienes ideas para mejorar la aplicación o quieres aportar, ¡estás más que bienvenido! Solo sigue estos pasos:
 
-Haz un fork del repositorio.
+1. Haz un **fork** del repositorio.
+2. Crea una rama con la nueva característica o corrección.
+3. Realiza un **pull request** con una descripción de lo que has hecho.
 
-Crea una rama con la nueva característica o corrección.
+---
 
-Realiza un "pull request" con una descripción de lo que has hecho.
+## 👨‍💻 **Desarrollado por:**
 
-👨‍💻 Desarrollado por:
+*Guillermo González* ✨  
+---
 
-Guillermo González
-
-¡Espero que disfrutes organizando tus amigos secretos con esta divertida aplicación!
+### ¡Espero que disfrutes organizando tus amigos secretos con esta divertida aplicación! 🎁
